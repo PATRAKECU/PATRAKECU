@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PATRAKECU
-- 👀 I’m interested in Petroleum Engineering projects
-- 🌱 I’m currently learning Python programing for well log interpretation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pato777771@gmail.com
+- 👀 I’m interested in Petroleum Engineering and software projects.
+- 🌱 I’m currently pursuing a Master's Degree in Software Engineering
+- 💞️ I’m looking to collaborate on global software projects in remote.
+- 📫 How to reach me patricio.agurto1@icloud.com
 
 <!---
 PATRAKECU/PATRAKECU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
