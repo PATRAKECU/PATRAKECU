@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patricio Agurto
-- 👀 I’m interested in Petroleum Engineering and software projects.
+- 👀 I’m interested in Software projects.
 - 🌱 I’m currently pursuing a Master's Degree in Software Engineering
 - 💞️ I’m looking to collaborate on global software projects in remote.
 - 📫 How to reach me: patricio.agurto1@icloud.com
